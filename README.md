@@ -13,7 +13,14 @@ git commmit -m "inserir mensagem aqui"
 
 git pull origin main
 
-git push origin mai
+git push origin main
 
 ```
 ## Ambiente virtual
+
+- [Instruções para criação de ambiente virtual conda](https://labriunesp.org/docs/projetos/ensino/ambiente/conda)
+
+
+```
+
+```
