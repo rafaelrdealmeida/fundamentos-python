@@ -1,0 +1,13 @@
+name: env_rafael
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - beautifulsoup4
+  - lxml
+  - selenium
+  - geckodriver
+  - requests
+  - tinydb
+  
