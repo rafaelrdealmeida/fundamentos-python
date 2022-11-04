@@ -50,3 +50,4 @@ conda activate env_rafael
 5. introdução aos tipos basicos
   - replicar o que foi feito na conversa inicial
 6. atualizar repositório com as alterações acima
+7. [Autoria de publicações](https://labriunesp.org/docs/projetos/sistemas/cadernos/proximos)
