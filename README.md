@@ -32,22 +32,21 @@ conda activate env_rafael
 ## Assuntos tratados em 04/11/2022
 
 - [ ] Ambiente de trabalho
- - [ ] Comandos basicos - linux
- - [ ] editor de código (vscode)
- - [ ] Versionamento
- - [ ] Ambiente virtual
- 
-- [ ] Fundamentos Básicos Python
-  - [ ] introdução aos tipos básicos
+  - [ ] Comandos basicos - linux
+  - [ ] editor de código (vscode)
+  - [ ] Versionamento
+  - [ ] Ambiente virtual
+
+  - [ ] Fundamentos Básicos Python
+   - [ ] introdução aos tipos básicos
 
 
 ## Tarefas de 04/11/2022
 
 1. criação do repositório fundamentos-python no github
-2. utilizar vscode (editar readme e criar ambiente virutal)
+2. utilizar vscode (editar readme e criar ambiente virtual)
 3. colocar no readme os comandos linux básicos tratados na conversa (04/11/2022)
 4. criar o ambiente virtual com o seu nome `env_rafael` (no lantrivm01)
 5. introdução aos tipos basicos
   - replicar o que foi feito na conversa inicial
 6. atualizar repositório com as alterações acima
-7. [Montar das repectivas publicações](https://labriunesp.org/docs/projetos/sistemas/cadernos/proximos)
