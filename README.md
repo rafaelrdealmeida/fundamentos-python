@@ -32,13 +32,13 @@ conda activate env_rafael
 ## Assuntos tratados em 04/11/2022
 
 - [ ] Ambiente de trabalho
- - [ ] Comandos basicos - linux
- - [ ] editor de código (vscode)
- - [ ] Versionamento
- - [ ] Ambiente virtual
- 
-- [ ] Fundamentos Básicos Python
-  - [ ] introdução aos tipos básicos
+  - [ ] Comandos basicos - linux
+  - [ ] editor de código (vscode)
+  - [ ] Versionamento
+  - [ ] Ambiente virtual
+
+  - [ ] Fundamentos Básicos Python
+   - [ ] introdução aos tipos básicos
 
 
 ## Tarefas de 04/11/2022
