@@ -29,7 +29,7 @@ conda activate env_rafael
 ```
 
 
-## Tarefas
+## Assuntos tratados em 04/11/2022
 
 - [ ] Ambiente de trabalho
  - [ ] Comandos basicos - linux
@@ -41,7 +41,7 @@ conda activate env_rafael
   - [ ] introdução aos tipos básicos
 
 
-### Etapa 01
+## Tarefas de 04/11/2022
 
 1. criação do repositório fundamentos-python no github
 2. utilizar vscode (editar readme e criar ambiente virutal)
